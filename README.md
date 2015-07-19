@@ -13,3 +13,5 @@ To query multiple Google Analytics Views at once, I used R and the RGoogleAnalyt
 3) Step 3: Initialize an empty data frame
 4) Step 4: Run the for loop over each category
 
+More info here: http://www.analyticsforfun.com/2015/05/query-multiple-google-analytics-view.html
+
